@@ -1,1 +1,1 @@
-# simplestNNwithPyTorch
+# Simplest neural network with PyTorch
